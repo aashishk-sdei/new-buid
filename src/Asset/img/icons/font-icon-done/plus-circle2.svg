@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#232222;}
+</style>
+<g id="Group_878" transform="translate(-617 -276)">
+	<g id="Ellipse_111" transform="translate(617 276)">
+		<g>
+			<circle class="st0" cx="11" cy="11" r="11"/>
+		</g>
+		<g>
+			<path class="st1" d="M11,22C4.9,22,0,17.1,0,11S4.9,0,11,0s11,4.9,11,11S17.1,22,11,22z M11,1C5.5,1,1,5.5,1,11
+				c0,5.5,4.5,10,10,10c5.5,0,10-4.5,10-10C21,5.5,16.5,1,11,1z"/>
+		</g>
+	</g>
+	<g id="Line_488">
+		<path class="st1" d="M632.5,287.5h-9c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h9c0.3,0,0.5,0.2,0.5,0.5S632.8,287.5,632.5,287.5z"
+			/>
+	</g>
+	<g id="Line_489">
+		<path class="st1" d="M628,292c-0.3,0-0.5-0.2-0.5-0.5v-9c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v9C628.5,291.8,628.3,292,628,292z
+			"/>
+	</g>
+</g>
+</svg>

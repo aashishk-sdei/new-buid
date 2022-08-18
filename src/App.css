@@ -1,0 +1,389 @@
+.App {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+svg {
+  height: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #f7f7f7;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: auto;
+}
+
+/* Common Layout style */
+.d-flex {
+  display: flex;
+}
+
+.d-inline-flex {
+  display: inline-flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.jsutify-content-center {
+  justify-content: center;
+}
+
+.flex-fill {
+  flex: 1;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+
+.overflow-auto {
+  overflow: auto;
+}
+
+.ms-auto {
+  margin-left: auto;
+}
+
+/* Common Form style */
+body .MuiInputBase-input {
+  height: 30px;
+}
+
+.form-block {
+  margin-bottom: 10px;
+}
+
+body .MuiInputLabel-root {
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 7px;
+}
+
+body .css-1y3no4h-MuiButtonBase-root-MuiButton-root {
+  background-color: #2677d4;
+  padding: 9px 15px;
+}
+
+.form-container * {
+  box-sizing: border-box;
+}
+
+.form-container .form-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form-container .form-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form-container .form-row .form-col {
+  padding: 0 15px;
+  width: 25%;
+  margin-bottom: 20px;
+}
+
+.form-container .form-row .form-col .form-block {
+  margin-bottom: 0;
+}
+
+.form-container .form-row .form-col .MuiFormLabel-root {
+  padding: 0;
+}
+
+.form-container .form-btns {
+  text-align: right;
+}
+
+.form-container .form-btns .MuiButtonBase-root {
+  padding: 8px 20px;
+}
+
+.form-container .card-block {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 15px rgb(190, 190, 190);
+}
+
+.form-container .card-block .card-title {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 26px;
+}
+
+/* Login Screen Style */
+.signup-wrapper {
+  display: flex;
+  flex: 1;
+  overflow: auto;
+  padding: 40px 60px;
+  background: url("./Asset/img/background2.jpeg") 0 0 no-repeat;
+  background-size: cover;
+}
+
+.signup-wrapper .column-blc {
+  flex: 1;
+  overflow: auto;
+  padding: 40px;
+}
+
+.signup-wrapper .left-col {
+  border-radius: 10px 0 0 10px;
+  background-color: #fff;
+  padding: 30px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.signup-wrapper .left-col > .inner {
+  max-width: 350px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  max-height: 100%;
+}
+
+.signup-wrapper .left-col > .inner .term-txt {
+  font-size: 13px;
+}
+
+.signup-wrapper .left-col .logo-block {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.signup-wrapper .left-col .logo-block img {
+  width: 90px;
+}
+
+.signup-wrapper .left-col .forgot-link {
+  margin-top: 10px;
+}
+
+.signup-wrapper .right-col {
+  background-color: #ebf3fa;
+  border-radius: 0 10px 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Dashboard page style */
+
+.dashboard-wrapper .dashboard-header {
+  padding: 12px 20px;
+  background-color: #fff;
+  border-bottom: 1px solid #fff;
+  box-shadow: 0 0 15px #cfcfcf;
+  border-radius: 0;
+  position: relative;
+}
+
+.dashboard-wrapper .inner-wrapper > .left-col {
+  max-width: 250px;
+  width: 100%;
+  margin-right: 20px;
+  padding: 30px 16px;
+  background-color: #fff;
+  box-shadow: 0 0 15px #eaeaea;
+}
+
+.dashboard-wrapper .sidebar-menu .menu-item {
+  font-size: 16px;
+  color: #222;
+  padding: 15px 10px;
+  border-radius: 6px;
+}
+
+.dashboard-wrapper .sidebar-menu .menu-item.active {
+  font-size: 16px;
+  color: #222;
+  padding: 15px 10px;
+}
+
+.dashboard-wrapper .sidebar-menu .menu-item:hover {
+  color: #0082fa;
+  background-color: #f6f6f6;
+}
+
+.dashboard-wrapper .sidebar-menu .menu-item * {
+  cursor: pointer;
+}
+
+.dashboard-wrapper .sidebar-menu .menu-item span {
+  margin-right: 15px;
+  display: inline-flex;
+}
+
+.dashboard-wrapper .inner-wrapper > .right-col {
+  padding: 30px 16px;
+}
+
+.dashboard-header .user-profile-cell {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.dashboard-header .user-profile-cell .MuiButtonBase-root {
+  color: #0082fa;
+}
+
+.dashboard-header .user-profile-cell span {
+  margin-right: 10px;
+}
+
+.dashboard-wrapper .breif-blc {
+  padding: 0 15px;
+  margin-bottom: 30px;
+}
+
+.dashboard-wrapper .row-blc {
+  margin: 0 -15px;
+}
+
+.dashboard-wrapper .row-blc .breif-cell-wrapper {
+  padding: 0 15px;
+  flex: 1;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell {
+  box-shadow: 0 0 15px #cdcdcd;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell .head {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell .head .text {
+  margin-right: 20px;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell .head .icon span {
+  display: inline-flex;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffc107;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell .head .icon.bg1 span {
+  background-color: #ffc107;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell .head .icon.bg2 span {
+  background-color: #4073e9;
+}
+
+.dashboard-wrapper .breif-blc .breif-cell .head .icon span svg {
+  width: 24px;
+}
+
+.dashboard-wrapper .breif-cell .inner {
+  font-size: 18px;
+  color: #838383;
+}
+
+/* Table listing style */
+.MuiTableRow-head .MuiTableCell-head {
+  background-color: #2776d2 !important;
+}
+
+.MuiTableRow-root:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+.MuiTableRow-root .MuiTableCell-root {
+  padding: 10px 20px;
+  border-bottom: 1px solid rgb(237 237 237);
+}
+
+.css-1enotpu-MuiTableRow-root:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.MuiTableCell-root .trash-icon {
+  color: #bbb;
+}
+
+.MuiTableCell-root .trash-icon:hover {
+  color: #4073e9;
+}
+
+/* Modal Style */
+.MuiDialog-container .MuiTypography-h4 {
+  font-size: 20px;
+  font-weight: 500;
+  border-bottom: 1px solid #eee;
+}
+
+.MuiDialog-container .MuiDialogActions-root {
+  border-top: 1px solid #eee;
+}
+
+.MuiDialog-container .MuiDialogContent-root {
+  padding: 20px;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="19.996" viewBox="0 0 18 19.996">
+  <g id="invoice" transform="translate(-10008.793 -470.261)">
+    <path id="clinical_notes" d="M19,3H5A2.126,2.126,0,0,0,3,5.222V20.774A2.126,2.126,0,0,0,5,23H19a2.126,2.126,0,0,0,2-2.222V5.222A2.126,2.126,0,0,0,19,3Z" transform="translate(10005.793 467.261)" fill="#7a7a7a"/>
+    <path id="Invoice-2" data-name="Invoice" d="M8.9,15.1H7V13.667H8.9Zm0-2.381H7v-1.9H8.9Zm0-2.857H7V8.429H8.9Zm6.191.952v1.9H9.857v-1.9ZM9.857,9.858V8.429H15.1V9.858Zm5.239,3.81V15.1H9.857V13.667ZM18.43,18.43H12.715v-.952H18.43Zm0-3.334H16.048V13.667H18.43Zm0-2.381H16.048v-1.9H18.43Zm0-2.857H16.048V8.429H18.43Zm0-5.238H7V3.667H18.43Z" transform="translate(10005.017 469.925)" fill="#fff"/>
+  </g>
+</svg>

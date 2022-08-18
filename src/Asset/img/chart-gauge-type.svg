@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="426.019" height="249.344" viewBox="0 0 426.019 249.344">
+  <defs>
+    <filter id="Path_101" x="0" y="0" width="249.344" height="249.344" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_814" data-name="Group 814" transform="translate(-376.981 -866.816)">
+    <g id="pie" transform="translate(389.633 871.597)">
+      <g transform="matrix(1, 0, 0, 1, -12.65, -4.78)" filter="url(#Path_101)">
+        <path id="Path_101-2" data-name="Path 101" d="M112.053,10.38A109.672,109.672,0,1,1,2.38,120.053,109.672,109.672,0,0,1,112.053,10.38Zm0,37.571a72.1,72.1,0,1,1-72.1,72.1,72.1,72.1,0,0,1,72.1-72.1Z" transform="translate(12.62 4.62)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <path id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" d="M51.48,162c12.942,19.239,35.919,32.567,60.852,32.567a76.661,76.661,0,0,0,40.491-11.905l21.646,32.469A111.44,111.44,0,0,1,19.67,184.8Z" transform="translate(-0.311 -2.601)" fill="#ffbc6e" fill-rule="evenodd"/>
+      <path id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" d="M46.938,89.924c-.286.59-.561,1.194-.828,1.8A71.7,71.7,0,0,0,39.941,120.9a75.317,75.317,0,0,0,12.212,40.491l-31.485,22.63C8.566,166.172.367,144.1.367,120.9A111.053,111.053,0,0,1,12.042,71.2c.214-.429.418-.864.65-1.279,3-5.4,6.578-9.846,16.322-3.746,6.033,3.774,7.489,4.859,13.3,8.638C45.972,77.19,51.028,81.422,46.938,89.924Z" transform="translate(0 -1.012)" fill="#b494ff" fill-rule="evenodd"/>
+      <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" d="M172.633,209c-4.241-6.322-9.758-14.287-14.455-21.068-3.936-5.679-8.434-13.01,1.168-23.614.62-.689,1.279-1.337,1.892-2.027A63.669,63.669,0,0,0,128.062,57.835c-4.6-1.058-8.158-1.443-14.159-3.714-2.369-.9-4.842-6.342-4.92-9.839,0,0-.876-13.175-.984-27.549C107.918,5.909,106.37-1.9,128.956.961A119.908,119.908,0,0,1,233.637,119.892c0,33.8-14.857,63.483-36.5,86.129C185.747,217.931,178.742,218.106,172.633,209Z" transform="translate(-1.731 0)" fill="#6b9dfe" fill-rule="evenodd"/>
+    </g>
+    <text id="Kidney_disease_Heartworm_Leptospirosis" data-name="Kidney disease
+Heartworm
+Leptospirosis" transform="translate(689 904)" fill="#8d8c9a" font-size="16" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">Kidney Disease</tspan><tspan x="0" y="66">Heartworm</tspan><tspan x="0" y="132">Leptospirosis</tspan></text>
+    <text id="_40_" data-name="40%" transform="translate(689 928)" font-size="16" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">40%</tspan></text>
+    <text id="_35_" data-name="35%" transform="translate(689 989)" font-size="16" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">35%</tspan></text>
+    <text id="_25_" data-name="25%" transform="translate(689 1062)" font-size="16" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">25%</tspan></text>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="10" cy="10" r="10" transform="translate(647 889)" fill="#6b9dfe"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="10" cy="10" r="10" transform="translate(647 955)" fill="#ffbc6e"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="10" cy="10" r="10" transform="translate(647 1021)" fill="#b494ff"/>
+  </g>
+</svg>
